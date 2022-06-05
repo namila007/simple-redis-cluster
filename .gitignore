@@ -1,0 +1,4 @@
+**/nodes-*.conf
+**/appendonly.aof
+**/dump.rdb
+**/server_log.txt
