@@ -4,7 +4,6 @@ a simple redis cluster (windows) for dev testing. this is for those who don't ha
 ## How to run
 1. run the script `run-server.bat` to start the servers
 2. then run `create-cluster.bat` to create the clusters
-    - currently creating cluster slots parallely ,(high cpu processing) if you want to renu them sequencially uncomment the serial and cmnt the parallel script.
 3. to stop the server run `stop-server.bat` this will kill the redis process
 
 ## Info
