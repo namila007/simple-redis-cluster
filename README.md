@@ -8,6 +8,8 @@ a simple redis cluster (windows) for dev testing. this is for those who don't ha
 3. to stop the server run `stop-server.bat` this will kill the redis process
 
 ## Info
+ redis version `Redis-x64-5.0.14.1`
+ 
  3 Masters and 3 Slaves
  
  #### Master 
@@ -15,4 +17,4 @@ a simple redis cluster (windows) for dev testing. this is for those who don't ha
  #### Slaves 
     - 127.0.0.1:7003-7005
 
-ps: redis-services installings are not working (for me)
+ps: redis-services installings are not working (for me) you can try it out from the old branch
